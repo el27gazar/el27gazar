@@ -1,4 +1,4 @@
-# Hey there, I'm [Mohamed Khaled] 👋
+# Hey there, I'm [Abdulrahman Mostafa] 👋
 
 **Full-stack Web Developer ☕**
 
@@ -17,7 +17,6 @@ I am a Software Engineer skilled in <br>
      - Html
      - Css
      - JavaScript
-     - Angular
      - and more ..... <br>
 continuously strive to improve my skills and contribute to impactful teams.
 
@@ -35,7 +34,6 @@ continuously strive to improve my skills and contribute to impactful teams.
 ![Html](https://img.shields.io/badge/Html-black?logo=Html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-47A248?logo=CSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4479A1?logo=JavaScript&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-47A248?logo=Angular&logoColor=white)
 <br>
 ### Other <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -44,6 +42,6 @@ continuously strive to improve my skills and contribute to impactful teams.
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)][(https://t.me/Al_Ayadi_505)]
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Al_Ayadi_505)]
 
 </div>

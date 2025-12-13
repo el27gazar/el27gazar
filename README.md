@@ -42,6 +42,6 @@ continuously strive to improve my skills and contribute to impactful teams.
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)[(https://t.me/Al_Ayadi_505)]]
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Al_Ayadi_505)
 
 </div>
